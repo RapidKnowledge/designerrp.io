@@ -1,0 +1,25 @@
+footer {
+  color: white;
+  background-color: darkblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+}
+  
+
+#ico {
+  width: 55;
+  height: 55px;
+  padding: 5px;
+}
+
+#a {
+  color: rgb(0, 60, 255);
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#h3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  font-weight: bold;
+}
