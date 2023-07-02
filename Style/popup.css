@@ -1,21 +1,17 @@
 
   .Click-here {
     cursor: pointer;
-   
     color: #000000;
     width: 85px;
     text-align: center;
     font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-   
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     margin: 0 auto;
-    transition: background-image 3s ease-in-out;
-
-   
+    transition: background-image 3s ease-in-out; 
     position: fixed;
-  bottom: 70px;
-  right: 10px;
-  z-index: 999;
+    bottom: 70px;
+    right: 10px;
+    z-index: 999;
   }
   
   .custom-model-main {
