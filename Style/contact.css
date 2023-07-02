@@ -16,3 +16,6 @@
     width: auto;
     height: 325px;
   }
+.navbar-brand {
+    font-size: 25px;
+}
